@@ -2,7 +2,7 @@
 # 🏦 Kipu Bank
 
 **Kipu Bank** es un contrato inteligente escrito en Solidity que actúa como una bóveda minimalista para **ETH** con límites de seguridad.  
-Forma parte del examen del **Módulo 2** y marca el inicio de tu portafolio Web3.
+Forma parte del examen del **Módulo 2** y marca el inicio de mi portafolio Web3.
 
 ---
 
@@ -27,8 +27,8 @@ El contrato sigue buenas prácticas de seguridad:
 ## 📌 Dirección del contrato
 
 - **Red:** Sepolia Testnet  
-- **Dirección:** `<PEGA_AQUI_TU_DIRECCION>`  
-- **Código verificado:** [Ver en Etherscan/Blockscout](<PEGA_AQUI_EL_LINK>)  
+- **Dirección:** `[0xc370e6b596289c931e2061580f0735fb75973d4a)`  
+- **Código verificado:** [Ver en Etherscan/Blockscout](https://sepolia.etherscan.io/address/0xc370e6b596289c931e2061580f0735fb75973d4a)  
 
 ---
 
