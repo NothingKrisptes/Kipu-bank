@@ -27,7 +27,7 @@ El contrato sigue buenas prácticas de seguridad:
 ## 📌 Dirección del contrato
 
 - **Red:** Sepolia Testnet  
-- **Dirección:** `[0xc370e6b596289c931e2061580f0735fb75973d4a)`  
+- **Dirección:** `(0xc370e6b596289c931e2061580f0735fb75973d4a)`  
 - **Código verificado:** [Ver en Etherscan/Blockscout](https://sepolia.etherscan.io/address/0xc370e6b596289c931e2061580f0735fb75973d4a)  
 
 ---
